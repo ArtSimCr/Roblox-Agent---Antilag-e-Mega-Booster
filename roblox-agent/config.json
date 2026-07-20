@@ -1,0 +1,7 @@
+{
+  "autoStart": true,
+  "monitorInterval": 60000,
+  "logging": true,
+  "ultraLightMode": true,
+  "boostRobloxPriority": true
+}

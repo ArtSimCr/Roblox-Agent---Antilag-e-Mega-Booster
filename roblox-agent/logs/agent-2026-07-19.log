@@ -1,0 +1,2437 @@
+[18:13:43] INFO: Roblox Performance Agent iniciado.
+[18:13:43] INFO: Modo seguro ativado.
+[18:13:43] INFO: O agente não modifica arquivos, memória ou jogabilidade do Roblox.
+[18:13:43] INFO: Verificação rápida concluída.
+[18:13:43] INFO: Todos os módulos principais foram carregados.
+[18:14:16] INFO: Roblox Performance Agent iniciado.
+[18:14:16] INFO: Modo seguro ativado.
+[18:14:16] INFO: O agente não modifica arquivos, memória ou jogabilidade do Roblox.
+[18:14:16] INFO: RobloxAgent procurando processo do Roblox...
+[18:14:20] INFO: Estado do Roblox: Executando
+[18:14:20] INFO: Roblox encontrado.
+[18:14:20] INFO: Ativando modo Performance...
+[18:14:20] INFO: Roblox encontrado.
+[18:14:20] INFO: Modo Performance ativado.
+[18:14:20] INFO: Plano Alto Desempenho ativo.
+[18:14:22] INFO: Prioridade alta definida para Roblox PID 11880.
+[18:14:22] INFO: Monitoramento contínuo iniciado.
+[18:14:22] INFO: ProcessAgent iniciado.
+[18:14:22] INFO: NetworkAgent iniciado.
+[18:14:42] INFO: Estado do Roblox: Fechado
+[18:14:42] INFO: Roblox fechado.
+[18:14:42] INFO: Restaurando configurações...
+[18:14:42] INFO: Monitoramento contínuo parado.
+[18:14:42] INFO: ProcessAgent parado.
+[18:14:42] INFO: NetworkAgent parado.
+[18:14:48] INFO: CPU 69% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:14:49] INFO: CPU 78% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:14:49] INFO: CPU 56% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:14:51] AVISO: Não foi possível restaurar o plano de energia original.
+[18:14:51] INFO: Configurações restauradas.
+[18:14:52] INFO: Aguardando nova sessão do Roblox.
+[18:14:53] INFO: CPU 84% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:14:58] INFO: CPU 97% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:14:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:00] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:02] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:05] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:06] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:13] INFO: Estado do Roblox: Executando
+[18:15:13] INFO: Roblox encontrado.
+[18:15:13] INFO: Ativando modo Performance...
+[18:15:13] INFO: Roblox encontrado.
+[18:15:13] INFO: Modo Performance ativado.
+[18:15:16] INFO: Plano Alto Desempenho ativo.
+[18:15:20] INFO: Estado do Roblox: Fechado
+[18:15:20] INFO: Roblox fechado.
+[18:15:20] INFO: Restaurando configurações...
+[18:15:20] INFO: Monitoramento contínuo parado.
+[18:15:21] INFO: ProcessAgent parado.
+[18:15:21] INFO: NetworkAgent parado.
+[18:15:24] AVISO: Não foi possível alterar a prioridade do Roblox: 
+[18:15:24] INFO: Monitoramento contínuo iniciado.
+[18:15:24] INFO: ProcessAgent iniciado.
+[18:15:25] INFO: NetworkAgent iniciado.
+[18:15:29] AVISO: Não foi possível restaurar o plano de energia original.
+[18:15:29] INFO: Configurações restauradas.
+[18:15:30] INFO: Aguardando nova sessão do Roblox.
+[18:15:55] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:15:58] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:15:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:00] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:01] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:04] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:08] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:08] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:10] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:13] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:16] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:19] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:20] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:23] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:26] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:29] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:30] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:31] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:33] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:39] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:40] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:41] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:43] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:48] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:50] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:53] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:55] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:58] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:16:59] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:16:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:02] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:05] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:06] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:07] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:10] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:14] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:16] INFO: Estado do Roblox: Executando
+[18:17:16] INFO: Roblox encontrado.
+[18:17:16] INFO: Ativando modo Performance...
+[18:17:16] INFO: Roblox encontrado.
+[18:17:16] INFO: Modo Performance ativado.
+[18:17:16] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:16] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:16] INFO: Estado do Roblox: Fechado
+[18:17:16] INFO: Roblox fechado.
+[18:17:17] INFO: Restaurando configurações...
+[18:17:17] INFO: Monitoramento contínuo parado.
+[18:17:17] INFO: ProcessAgent parado.
+[18:17:17] INFO: NetworkAgent parado.
+[18:17:17] INFO: Configurações restauradas.
+[18:17:17] INFO: Aguardando nova sessão do Roblox.
+[18:17:17] INFO: Processos com maior uso acumulado de CPU: RobloxPlayerBeta(PID 11212, RAM 1756 MB), WWAHost(PID 14732, RAM 91 MB), RobloxPlayerBeta(PID 17180, RAM 188 MB), EpicGamesLauncher(PID 9108, RAM 111 MB), msedgewebview2(PID 14160, RAM 29 MB)
+[18:17:17] INFO: Modo seguro: o agente apenas sugere. Nenhum processo é fechado automaticamente.
+[18:17:20] INFO: Plano Alto Desempenho ativo.
+[18:17:20] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:21] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:26] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:26] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:27] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:28] AVISO: Não foi possível alterar a prioridade do Roblox: 
+[18:17:28] INFO: Monitoramento contínuo iniciado.
+[18:17:28] INFO: ProcessAgent iniciado.
+[18:17:28] INFO: NetworkAgent iniciado.
+[18:17:30] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:31] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:36] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:37] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:37] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:40] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:41] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:17:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:17:59] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:04] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:09] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:09] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:16] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:17] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:18] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:19] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:20] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:25] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:27] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:27] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:28] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:30] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:34] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:38] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:40] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:41] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:44] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:45] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:47] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:51] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:53] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:18:55] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:18:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:01] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:02] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:05] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:06] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:13] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:13] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:14] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:19] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:25] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:27] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:31] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:33] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:34] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:50] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:50] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:50] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:19:54] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:19:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:04] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:05] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:07] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:29] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:29] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:30] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:30] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:20:33] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:34] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:20:37] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:38] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:20:44] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:46] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:47] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:20:54] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:20:55] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:20:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:02] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:07] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:14] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:19] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:20] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:20] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:25] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:28] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:40] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:50] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:53] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:53] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:21:55] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:21:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:02] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:05] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:08] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:11] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:13] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:13] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:15] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:24] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:25] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:29] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:31] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:34] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:35] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:39] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:40] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:45] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:47] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:55] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:57] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:57] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:22:57] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:22:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:03] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:06] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:07] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:07] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:10] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:15] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:15] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:19] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:19] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:23] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:25] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:30] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:32] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:38] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:41] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:41] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:47] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:47] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:47] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:53] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:57] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:23:58] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:23:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:03] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:04] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:05] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:08] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:08] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:12] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:13] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:13] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:16] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:16] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:21] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:25] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:25] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:25] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:25] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:26] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:26] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:27] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:27] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:36] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:36] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:39] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:39] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:45] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:46] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:50] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:50] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:50] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:50] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:52] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:52] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:24:53] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:24:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:24:54] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:00] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:00] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:01] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:02] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:19] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:19] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:21] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:21] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:29] INFO: CPU 100% | RAM 97% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:29] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:29] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:29] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:33] INFO: CPU 100% | RAM 97% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:33] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:38] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:39] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:39] INFO: CPU 100% | RAM 97% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:39] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:42] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:42] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:43] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:43] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:47] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:47] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:51] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:51] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:25:56] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:25:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:25:56] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:01] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:01] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:06] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:06] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:06] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:07] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:07] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:07] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:11] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:11] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:17] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:17] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:18] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:18] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:19] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:19] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:20] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:24] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:24] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:28] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:28] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:29] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:29] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:32] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:32] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:33] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:33] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:38] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:38] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:39] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:40] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:41] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:41] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:46] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:46] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:51] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:51] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:52] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:53] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:54] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:54] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:26:56] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:26:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:26:56] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:27:00] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:03] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:03] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:27:06] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:08] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:08] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:27:09] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:15] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:16] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:20] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:24] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:26] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:27] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:29] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:37] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:43] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:44] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:45] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:48] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:54] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:55] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:57] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:27:59] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:27:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:00] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:02] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:07] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:13] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:14] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:21] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:23] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:23] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:25] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:30] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:32] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:32] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:38] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:39] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:43] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:46] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:53] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:54] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:28:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:28:59] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:02] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:05] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:10] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:12] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:13] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:17] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:23] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:29] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:31] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:37] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:44] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:45] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:49] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:53] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:57] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:29:58] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:29:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:04] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:05] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:15] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:21] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:25] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:26] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:26] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:29] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:29] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:33] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:37] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:41] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:42] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:44] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:48] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:51] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:53] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:56] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:30:57] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:30:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:01] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:03] INFO: CPU 100% | RAM 76% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:05] INFO: CPU 100% | RAM 74% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:10] INFO: CPU 100% | RAM 74% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:11] INFO: CPU 100% | RAM 74% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:12] INFO: CPU 100% | RAM 73% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:15] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:16] INFO: CPU 100% | RAM 73% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:18] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:23] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:27] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:28] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:30] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:34] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:36] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:38] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:44] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:46] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:31:50] INFO: CPU 100% | RAM 71% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:31:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:01] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:02] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:04] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:08] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:11] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:11] INFO: CPU 100% | RAM 75% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:12] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:12] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:14] INFO: CPU 100% | RAM 72% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:16] INFO: CPU 100% | RAM 75% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:20] INFO: CPU 100% | RAM 77% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:24] INFO: CPU 100% | RAM 75% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:33] INFO: CPU 100% | RAM 78% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:36] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:40] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:43] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:45] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:49] INFO: CPU 100% | RAM 78% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:55] INFO: CPU 100% | RAM 78% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:32:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:32:59] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:00] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:00] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:11] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:16] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:16] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:24] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:25] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:29] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:32] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:35] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:38] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:41] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:51] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:33:53] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:33:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:34:03] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:34:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:34:03] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:34:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:34:05] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:34:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:34:07] INFO: Encerrando Roblox Performance Agent...
+[18:34:07] INFO: Monitoramento contínuo parado.
+[18:34:07] INFO: ProcessAgent parado.
+[18:34:07] INFO: NetworkAgent parado.
+[18:34:07] INFO: Agente encerrado com segurança.
+[18:47:51] INFO: Roblox Performance Agent iniciado.
+[18:47:51] INFO: Modo seguro ativado.
+[18:47:51] INFO: O agente não modifica arquivos, memória ou jogabilidade do Roblox.
+[18:47:51] INFO: RobloxAgent procurando processo do Roblox...
+[18:47:56] INFO: Estado do Roblox: Executando
+[18:47:56] INFO: Roblox encontrado.
+[18:47:56] INFO: Ativando modo Performance...
+[18:47:56] INFO: Roblox encontrado.
+[18:47:56] INFO: Modo Performance ativado.
+[18:47:59] INFO: Plano Alto Desempenho ativo.
+[18:48:01] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:48:01] INFO: Monitoramento contínuo iniciado.
+[18:48:01] INFO: ProcessAgent iniciado.
+[18:48:01] INFO: NetworkAgent iniciado.
+[18:48:16] INFO: Estado do Roblox: Fechado
+[18:48:16] INFO: Roblox fechado.
+[18:48:16] INFO: Restaurando configurações...
+[18:48:17] INFO: Monitoramento contínuo parado.
+[18:48:17] INFO: ProcessAgent parado.
+[18:48:17] INFO: NetworkAgent parado.
+[18:48:24] INFO: Plano de energia original restaurado.
+[18:48:24] INFO: Configurações restauradas.
+[18:48:24] INFO: Aguardando nova sessão do Roblox.
+[18:48:32] INFO: CPU 84% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:33] INFO: CPU 86% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:33] INFO: CPU 91% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:48:35] INFO: CPU 97% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:48:37] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:48:42] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:48:43] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:48:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:48:43] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:48:44] INFO: Estado do Roblox: Executando
+[18:48:44] INFO: Roblox encontrado.
+[18:48:44] INFO: Ativando modo Performance...
+[18:48:44] INFO: Roblox encontrado.
+[18:48:44] INFO: Modo Performance ativado.
+[18:48:49] INFO: Plano Alto Desempenho ativo.
+[18:48:53] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:48:53] INFO: Monitoramento contínuo iniciado.
+[18:48:53] INFO: ProcessAgent iniciado.
+[18:48:53] INFO: NetworkAgent iniciado.
+[18:49:07] INFO: Estado do Roblox: Fechado
+[18:49:07] INFO: Roblox fechado.
+[18:49:07] INFO: Restaurando configurações...
+[18:49:07] INFO: Monitoramento contínuo parado.
+[18:49:07] INFO: ProcessAgent parado.
+[18:49:07] INFO: NetworkAgent parado.
+[18:49:12] INFO: Plano de energia original restaurado.
+[18:49:12] INFO: Configurações restauradas.
+[18:49:12] INFO: Aguardando nova sessão do Roblox.
+[18:49:20] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:23] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:25] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:30] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:32] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:49:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:49:35] INFO: Estado do Roblox: Executando
+[18:49:35] INFO: Roblox encontrado.
+[18:49:35] INFO: Ativando modo Performance...
+[18:49:35] INFO: Roblox encontrado.
+[18:49:35] INFO: Modo Performance ativado.
+[18:49:39] INFO: Plano Alto Desempenho ativo.
+[18:49:43] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:49:43] INFO: Monitoramento contínuo iniciado.
+[18:49:43] INFO: ProcessAgent iniciado.
+[18:49:43] INFO: NetworkAgent iniciado.
+[18:50:00] INFO: Estado do Roblox: Fechado
+[18:50:00] INFO: Roblox fechado.
+[18:50:00] INFO: Restaurando configurações...
+[18:50:00] INFO: Monitoramento contínuo parado.
+[18:50:00] INFO: ProcessAgent parado.
+[18:50:01] INFO: NetworkAgent parado.
+[18:50:06] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:06] INFO: Plano de energia original restaurado.
+[18:50:07] INFO: Configurações restauradas.
+[18:50:07] INFO: Aguardando nova sessão do Roblox.
+[18:50:09] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:14] INFO: CPU 100% | RAM 88% | Disco 100% | GPU 0% | Temperatura 0°C
+[18:50:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:14] AVISO: Disco em alto uso. Atualizações, antivírus ou gravações podem causar engasgos.
+[18:50:17] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:20] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:20] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:20] INFO: Estado do Roblox: Executando
+[18:50:20] INFO: Roblox encontrado.
+[18:50:21] INFO: Ativando modo Performance...
+[18:50:21] INFO: Roblox encontrado.
+[18:50:21] INFO: Modo Performance ativado.
+[18:50:23] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:25] INFO: Plano Alto Desempenho ativo.
+[18:50:25] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0%
+[18:50:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:28] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:50:28] INFO: Monitoramento contínuo iniciado.
+[18:50:28] INFO: ProcessAgent iniciado.
+[18:50:28] INFO: NetworkAgent iniciado.
+[18:50:43] INFO: Estado do Roblox: Fechado
+[18:50:44] INFO: Roblox fechado.
+[18:50:44] INFO: Restaurando configurações...
+[18:50:44] INFO: Monitoramento contínuo parado.
+[18:50:44] INFO: ProcessAgent parado.
+[18:50:44] INFO: NetworkAgent parado.
+[18:50:50] INFO: Plano de energia original restaurado.
+[18:50:50] INFO: Configurações restauradas.
+[18:50:50] INFO: Aguardando nova sessão do Roblox.
+[18:50:55] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:50:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:50:56] INFO: CPU 100% | RAM 86% | Disco 3% | GPU 0% | Temperatura 0°C
+[18:50:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:00] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:04] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:04] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:06] INFO: Estado do Roblox: Executando
+[18:51:06] INFO: Roblox encontrado.
+[18:51:06] INFO: Ativando modo Performance...
+[18:51:06] INFO: Roblox encontrado.
+[18:51:06] INFO: Modo Performance ativado.
+[18:51:06] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:08] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:10] INFO: Plano Alto Desempenho ativo.
+[18:51:13] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:51:13] INFO: Monitoramento contínuo iniciado.
+[18:51:13] INFO: ProcessAgent iniciado.
+[18:51:14] INFO: NetworkAgent iniciado.
+[18:51:29] INFO: Estado do Roblox: Fechado
+[18:51:29] INFO: Roblox fechado.
+[18:51:29] INFO: Restaurando configurações...
+[18:51:29] INFO: Monitoramento contínuo parado.
+[18:51:29] INFO: ProcessAgent parado.
+[18:51:30] INFO: NetworkAgent parado.
+[18:51:36] INFO: Plano de energia original restaurado.
+[18:51:36] INFO: Configurações restauradas.
+[18:51:36] INFO: Aguardando nova sessão do Roblox.
+[18:51:38] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:41] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:46] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:48] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:50] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:50] INFO: Estado do Roblox: Executando
+[18:51:50] INFO: Roblox encontrado.
+[18:51:50] INFO: Ativando modo Performance...
+[18:51:50] INFO: Roblox encontrado.
+[18:51:50] INFO: Modo Performance ativado.
+[18:51:52] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:54] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:51:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:51:56] INFO: Plano Alto Desempenho ativo.
+[18:51:59] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:51:59] INFO: Monitoramento contínuo iniciado.
+[18:51:59] INFO: ProcessAgent iniciado.
+[18:51:59] INFO: NetworkAgent iniciado.
+[18:52:15] INFO: Estado do Roblox: Fechado
+[18:52:16] INFO: Roblox fechado.
+[18:52:16] INFO: Restaurando configurações...
+[18:52:16] INFO: Monitoramento contínuo parado.
+[18:52:16] INFO: ProcessAgent parado.
+[18:52:16] INFO: NetworkAgent parado.
+[18:52:23] INFO: Plano de energia original restaurado.
+[18:52:23] INFO: Configurações restauradas.
+[18:52:23] INFO: Aguardando nova sessão do Roblox.
+[18:52:24] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:29] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:32] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:36] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:38] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:40] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:52:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:52:43] INFO: Estado do Roblox: Executando
+[18:52:43] INFO: Roblox encontrado.
+[18:52:43] INFO: Ativando modo Performance...
+[18:52:43] INFO: Roblox encontrado.
+[18:52:43] INFO: Modo Performance ativado.
+[18:52:47] INFO: Plano Alto Desempenho ativo.
+[18:52:50] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:52:50] INFO: Monitoramento contínuo iniciado.
+[18:52:50] INFO: ProcessAgent iniciado.
+[18:52:50] INFO: NetworkAgent iniciado.
+[18:53:11] INFO: Estado do Roblox: Fechado
+[18:53:11] INFO: Roblox fechado.
+[18:53:11] INFO: Restaurando configurações...
+[18:53:11] INFO: Monitoramento contínuo parado.
+[18:53:11] INFO: ProcessAgent parado.
+[18:53:12] INFO: NetworkAgent parado.
+[18:53:14] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:18] INFO: CPU 95% | RAM 87% | Disco 3% | GPU 0% | Temperatura 0°C
+[18:53:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:18] INFO: Plano de energia original restaurado.
+[18:53:19] INFO: Configurações restauradas.
+[18:53:19] INFO: Aguardando nova sessão do Roblox.
+[18:53:23] INFO: CPU 99% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:26] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:28] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:32] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:32] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:32] INFO: Estado do Roblox: Executando
+[18:53:32] INFO: Roblox encontrado.
+[18:53:32] INFO: Ativando modo Performance...
+[18:53:32] INFO: Roblox encontrado.
+[18:53:32] INFO: Modo Performance ativado.
+[18:53:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:53:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:53:37] INFO: Plano Alto Desempenho ativo.
+[18:53:41] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:53:41] INFO: Monitoramento contínuo iniciado.
+[18:53:41] INFO: ProcessAgent iniciado.
+[18:53:41] INFO: NetworkAgent iniciado.
+[18:53:57] INFO: Estado do Roblox: Fechado
+[18:53:57] INFO: Roblox fechado.
+[18:53:57] INFO: Restaurando configurações...
+[18:53:57] INFO: Monitoramento contínuo parado.
+[18:53:57] INFO: ProcessAgent parado.
+[18:53:57] INFO: NetworkAgent parado.
+[18:54:03] INFO: Plano de energia original restaurado.
+[18:54:03] INFO: Configurações restauradas.
+[18:54:03] INFO: Aguardando nova sessão do Roblox.
+[18:54:03] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:07] INFO: CPU 96% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:13] INFO: CPU 97% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:15] INFO: Estado do Roblox: Executando
+[18:54:15] INFO: Roblox encontrado.
+[18:54:15] INFO: Ativando modo Performance...
+[18:54:15] INFO: Roblox encontrado.
+[18:54:15] INFO: Modo Performance ativado.
+[18:54:16] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:17] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:17] INFO: Estado do Roblox: Fechado
+[18:54:17] INFO: Roblox fechado.
+[18:54:17] INFO: Restaurando configurações...
+[18:54:17] INFO: Monitoramento contínuo parado.
+[18:54:17] INFO: ProcessAgent parado.
+[18:54:17] INFO: NetworkAgent parado.
+[18:54:17] INFO: Configurações restauradas.
+[18:54:18] INFO: Aguardando nova sessão do Roblox.
+[18:54:18] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:19] INFO: Estado do Roblox: Executando
+[18:54:19] INFO: Roblox encontrado.
+[18:54:19] INFO: Ativando modo Performance...
+[18:54:19] INFO: Roblox encontrado.
+[18:54:19] INFO: Modo Performance ativado.
+[18:54:21] INFO: Estado do Roblox: Fechado
+[18:54:21] INFO: Roblox fechado.
+[18:54:21] INFO: Restaurando configurações...
+[18:54:21] INFO: Monitoramento contínuo parado.
+[18:54:21] INFO: ProcessAgent parado.
+[18:54:21] INFO: NetworkAgent parado.
+[18:54:22] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:22] INFO: Plano Alto Desempenho ativo.
+[18:54:24] INFO: Plano Alto Desempenho ativo.
+[18:54:27] INFO: Estado do Roblox: Executando
+[18:54:27] INFO: Plano de energia original restaurado.
+[18:54:27] INFO: Configurações restauradas.
+[18:54:27] INFO: Aguardando nova sessão do Roblox.
+[18:54:28] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:54:28] INFO: Monitoramento contínuo iniciado.
+[18:54:29] INFO: ProcessAgent iniciado.
+[18:54:29] INFO: NetworkAgent iniciado.
+[18:54:29] INFO: Prioridade alta definida para Roblox PID 8860.
+[18:54:48] INFO: Estado do Roblox: Fechado
+[18:54:53] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:54:56] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:54:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:00] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:04] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:06] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:08] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:10] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:12] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:14] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:17] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:21] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:23] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:25] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:28] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:32] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:35] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:39] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:40] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:41] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:45] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:47] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:49] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:52] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:56] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:57] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:55:59] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:55:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:04] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:05] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:08] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:14] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:17] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:18] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:22] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:23] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:25] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:26] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:29] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:31] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:33] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:38] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:40] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:43] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:47] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:48] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:50] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:56] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:56:57] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:56:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:01] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:04] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:06] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:08] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:11] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:14] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:16] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:17] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:20] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:20] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:23] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:26] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:29] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:32] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:35] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:36] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:40] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:41] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:45] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:46] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:49] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:54] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:57:55] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:57:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:00] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:00] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:03] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:03] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:05] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:08] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:11] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:14] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:16] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:20] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:24] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:25] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:28] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:32] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:33] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:34] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:38] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:42] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:44] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:45] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:47] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:50] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:51] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:53] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:56] INFO: Estado do Roblox: Executando
+[18:58:56] INFO: Roblox encontrado.
+[18:58:56] INFO: Ativando modo Performance...
+[18:58:57] INFO: Roblox encontrado.
+[18:58:57] INFO: Modo Performance ativado.
+[18:58:57] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:58:59] INFO: Estado do Roblox: Fechado
+[18:58:59] INFO: Roblox fechado.
+[18:58:59] INFO: Restaurando configurações...
+[18:58:59] INFO: Monitoramento contínuo parado.
+[18:58:59] INFO: ProcessAgent parado.
+[18:58:59] INFO: NetworkAgent parado.
+[18:58:59] INFO: Configurações restauradas.
+[18:58:59] INFO: Aguardando nova sessão do Roblox.
+[18:58:59] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:58:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:03] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:04] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:05] INFO: Plano Alto Desempenho ativo.
+[18:59:08] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:08] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:13] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:13] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:14] AVISO: Não foi possível alterar a prioridade do Roblox: 
+[18:59:14] INFO: Monitoramento contínuo iniciado.
+[18:59:14] INFO: ProcessAgent iniciado.
+[18:59:14] INFO: NetworkAgent iniciado.
+[18:59:16] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:17] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:21] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:21] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:25] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:45] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:45] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:59:49] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:49] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:50] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[18:59:52] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:54] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[18:59:59] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[18:59:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:03] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:03] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:06] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:10] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:13] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:15] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:16] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:21] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:22] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:22] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:27] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:30] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:33] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:39] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:39] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:44] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:46] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:50] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:50] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:54] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:55] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:56] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:00:58] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:00:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:02] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:06] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:10] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:15] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:15] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:17] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:19] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:24] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:27] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:31] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:33] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:36] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:40] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:41] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:42] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:48] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:50] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:53] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:01:58] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:01:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:00] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:04] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:06] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:09] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:12] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:13] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:19] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:19] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:22] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:23] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:26] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:29] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:34] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:37] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:38] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:43] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:45] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:46] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:48] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:55] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:02:59] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:02:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:04] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:04] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:07] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:08] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:12] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:13] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:17] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:21] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:21] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:24] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:31] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:33] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:36] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:37] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:41] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:43] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:46] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:51] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:52] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:53] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:03:57] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:03:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:03] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:06] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:11] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:11] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:13] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:14] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:18] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:19] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:19] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:20] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:20] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:26] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:26] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:28] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:28] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:29] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:29] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:30] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:31] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:31] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:32] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:36] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:36] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:37] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:38] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:39] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:39] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:45] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:45] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:49] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:49] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:50] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:50] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:04:51] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:52] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:57] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:59] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:04:59] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:04:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:01] INFO: CPU 100% | RAM 78% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:02] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:02] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:08] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:09] INFO: CPU 100% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:09] INFO: CPU 100% | RAM 79% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:09] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:15] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:20] INFO: CPU 100% | RAM 81% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:21] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:22] INFO: CPU 100% | RAM 83% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:25] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:28] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:30] INFO: CPU 100% | RAM 84% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:32] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:37] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:38] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:39] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:40] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:44] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:47] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:48] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:49] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:50] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:50] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:55] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:57] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:05:58] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:05:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:01] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:03] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:07] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:08] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:08] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:10] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:13] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:16] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:18] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:20] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:22] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:26] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:30] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:30] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:32] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:35] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:36] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:40] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:44] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:44] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:48] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:49] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:49] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:49] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:53] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:53] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:58] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:06:59] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:06:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:00] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:00] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:06] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:06] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:09] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:11] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:14] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:16] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:16] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:20] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:22] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:23] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:26] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:26] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:28] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:32] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:33] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:34] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:34] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:38] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:38] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:42] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:43] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:46] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:51] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:51] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:54] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:07:58] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:07:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:01] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:03] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:03] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:09] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:09] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:10] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:12] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:12] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:13] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:18] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:22] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:22] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:22] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:25] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:25] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:27] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:31] INFO: CPU 100% | RAM 86% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:33] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:33] INFO: CPU 100% | RAM 87% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:39] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:43] INFO: CPU 100% | RAM 89% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:43] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:45] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:45] INFO: CPU 100% | RAM 88% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:47] INFO: CPU 100% | RAM 90% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:47] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:52] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:52] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:52] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:08:55] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:55] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:08:55] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:55] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:55] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:08:58] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:58] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:08:58] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:08:59] INFO: CPU 100% | RAM 91% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:08:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:00] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:01] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:01] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:04] INFO: CPU 100% | RAM 92% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:05] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:07] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:07] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:09] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:09] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:11] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:11] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:17] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:17] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:18] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:18] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:18] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:21] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:21] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:23] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:23] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:23] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:27] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:27] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:28] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:28] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:28] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:28] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:31] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:31] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:31] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:36] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:36] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:36] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:42] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:42] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:45] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:45] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:46] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:46] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:46] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:46] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:47] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:48] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:48] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:48] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:54] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:54] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:55] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:56] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:56] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:57] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:57] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:57] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:57] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:09:59] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:09:59] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:09:59] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:01] INFO: CPU 100% | RAM 97% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:01] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:05] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:05] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:05] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:07] INFO: CPU 100% | RAM 96% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:07] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:07] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:09] INFO: CPU 100% | RAM 97% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:10] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:10] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:12] INFO: CPU 100% | RAM 95% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:13] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:17] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:17] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:17] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:19] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:19] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:19] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:20] INFO: CPU 100% | RAM 94% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:20] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:21] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:24] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:24] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:24] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:27] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:27] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:27] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:28] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:28] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:28] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:29] INFO: CPU 100% | RAM 93% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:10:29] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:10:29] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[19:10:30] INFO: Encerrando Roblox Performance Agent...
+[19:10:30] INFO: Monitoramento contínuo parado.
+[19:10:30] INFO: ProcessAgent parado.
+[19:10:30] INFO: NetworkAgent parado.
+[19:10:30] INFO: Agente encerrado com segurança.
+[19:13:44] INFO: Roblox Performance Agent iniciado.
+[19:13:44] INFO: Modo Leve Máximo ativado.
+[19:13:44] INFO: O agente não modifica arquivos, memória ou jogabilidade do Roblox.
+[19:13:44] INFO: RobloxAgent procurando processo do Roblox...
+[19:14:17] INFO: Estado do Roblox: Executando
+[19:14:17] INFO: Roblox encontrado.
+[19:14:17] INFO: Iniciando apenas recursos leves.
+[19:14:17] INFO: Modo Performance Leve ativado.
+[19:14:17] INFO: Nenhuma alteração será feita no Roblox.
+[19:14:17] INFO: Prioridade alta desativada.
+[19:14:17] INFO: Alteração de plano de energia desativada.
+[19:14:17] INFO: Monitoramento contínuo iniciado.
+[19:15:05] INFO: CPU 66% | RAM 80% | Disco 0% | GPU 0%
+[19:15:30] INFO: CPU 62% | RAM 80% | Disco 0% | GPU 0%
+[19:16:00] INFO: CPU 68% | RAM 78% | Disco 0% | GPU 0%
+[19:16:32] INFO: CPU 70% | RAM 71% | Disco 0% | GPU 0%
+[19:17:00] INFO: CPU 78% | RAM 77% | Disco 0% | GPU 0%
+[19:17:35] INFO: CPU 71% | RAM 77% | Disco 0% | GPU 0%
+[19:18:01] INFO: CPU 84% | RAM 77% | Disco 0% | GPU 0%
+[19:18:30] INFO: CPU 70% | RAM 77% | Disco 0% | GPU 0%
+[19:19:00] INFO: CPU 63% | RAM 77% | Disco 0% | GPU 0%
+[19:19:31] INFO: CPU 66% | RAM 77% | Disco 1% | GPU 0%
+[19:20:01] INFO: CPU 76% | RAM 79% | Disco 0% | GPU 0%
+[19:20:30] INFO: CPU 65% | RAM 78% | Disco 0% | GPU 0%
+[19:21:00] INFO: CPU 58% | RAM 78% | Disco 0% | GPU 0%
+[19:21:30] INFO: CPU 63% | RAM 78% | Disco 0% | GPU 0%
+[19:22:00] INFO: CPU 73% | RAM 80% | Disco 0% | GPU 0%
+[19:22:30] INFO: CPU 66% | RAM 78% | Disco 0% | GPU 0%
+[19:23:03] INFO: CPU 63% | RAM 76% | Disco 0% | GPU 0%
+[19:23:31] INFO: CPU 65% | RAM 76% | Disco 0% | GPU 0%
+[19:24:01] INFO: CPU 77% | RAM 76% | Disco 0% | GPU 0%
+[19:24:30] INFO: CPU 66% | RAM 76% | Disco 0% | GPU 0%
+[19:25:00] INFO: CPU 60% | RAM 75% | Disco 0% | GPU 0%
+[19:25:31] INFO: CPU 61% | RAM 76% | Disco 0% | GPU 0%
+[19:26:01] INFO: CPU 81% | RAM 51% | Disco 0% | GPU 0%
+[19:26:31] INFO: CPU 82% | RAM 59% | Disco 0% | GPU 0%
+[19:27:01] INFO: CPU 83% | RAM 68% | Disco 4% | GPU 0%
+[19:27:32] INFO: CPU 78% | RAM 75% | Disco 1% | GPU 0%
+[19:28:01] INFO: CPU 86% | RAM 79% | Disco 0% | GPU 0%
+[19:28:31] INFO: CPU 78% | RAM 76% | Disco 0% | GPU 0%
+[19:29:00] INFO: CPU 71% | RAM 78% | Disco 0% | GPU 0%
+[19:29:31] INFO: CPU 64% | RAM 68% | Disco 0% | GPU 0%
+[19:30:01] INFO: CPU 80% | RAM 75% | Disco 0% | GPU 0%
+[19:30:30] INFO: CPU 67% | RAM 78% | Disco 7% | GPU 0%
+[19:31:00] INFO: CPU 72% | RAM 74% | Disco 0% | GPU 0%
+[19:31:30] INFO: CPU 63% | RAM 76% | Disco 0% | GPU 0%
+[19:32:00] INFO: CPU 66% | RAM 78% | Disco 0% | GPU 0%
+[19:32:30] INFO: CPU 60% | RAM 77% | Disco 0% | GPU 0%
+[19:33:00] INFO: CPU 55% | RAM 74% | Disco 0% | GPU 0%
+[19:33:30] INFO: CPU 59% | RAM 75% | Disco 0% | GPU 0%
+[19:34:02] INFO: CPU 56% | RAM 71% | Disco 0% | GPU 0%
+[19:34:31] INFO: CPU 66% | RAM 74% | Disco 0% | GPU 0%
+[19:35:04] INFO: CPU 81% | RAM 77% | Disco 0% | GPU 0%
+[19:35:31] INFO: CPU 78% | RAM 74% | Disco 0% | GPU 0%
+[19:36:01] INFO: CPU 83% | RAM 77% | Disco 0% | GPU 0%
+[19:36:30] INFO: CPU 71% | RAM 73% | Disco 0% | GPU 0%
+[19:37:01] INFO: CPU 71% | RAM 76% | Disco 0% | GPU 0%
+[19:37:30] INFO: CPU 59% | RAM 67% | Disco 0% | GPU 0%
+[19:38:00] INFO: CPU 63% | RAM 73% | Disco 0% | GPU 0%
+[19:38:31] INFO: CPU 66% | RAM 75% | Disco 0% | GPU 0%
+[19:39:00] INFO: CPU 75% | RAM 75% | Disco 0% | GPU 0%
+[19:39:33] INFO: CPU 57% | RAM 75% | Disco 0% | GPU 0%
+[19:40:00] INFO: CPU 55% | RAM 73% | Disco 0% | GPU 0%
+[19:40:30] INFO: CPU 54% | RAM 73% | Disco 0% | GPU 0%
+[19:41:00] INFO: CPU 58% | RAM 74% | Disco 0% | GPU 0%
+[19:41:31] INFO: CPU 63% | RAM 74% | Disco 0% | GPU 0%
+[19:42:00] INFO: CPU 74% | RAM 75% | Disco 0% | GPU 0%
+[19:42:31] INFO: CPU 66% | RAM 74% | Disco 0% | GPU 0%
+[19:43:00] INFO: CPU 67% | RAM 75% | Disco 0% | GPU 0%
+[19:43:30] INFO: CPU 61% | RAM 74% | Disco 0% | GPU 0%
+[19:44:00] INFO: CPU 60% | RAM 73% | Disco 0% | GPU 0%
+[19:44:31] INFO: CPU 73% | RAM 76% | Disco 0% | GPU 0%
+[19:45:00] INFO: CPU 70% | RAM 76% | Disco 0% | GPU 0%
+[19:45:30] INFO: CPU 60% | RAM 76% | Disco 0% | GPU 0%
+[19:46:01] INFO: CPU 57% | RAM 74% | Disco 0% | GPU 0%
+[19:46:31] INFO: CPU 67% | RAM 74% | Disco 0% | GPU 0%
+[19:47:00] INFO: CPU 75% | RAM 75% | Disco 0% | GPU 0%
+[19:47:35] INFO: CPU 74% | RAM 68% | Disco 2% | GPU 0%
+[19:48:00] INFO: CPU 86% | RAM 79% | Disco 0% | GPU 0%
+[19:48:36] INFO: CPU 70% | RAM 78% | Disco 0% | GPU 0%
+[19:48:53] INFO: Estado do Roblox: Fechado
+[19:48:53] INFO: Roblox fechado.
+[19:48:53] INFO: Monitoramento contínuo parado.
+[19:48:53] INFO: ProcessAgent parado.
+[19:48:53] INFO: NetworkAgent parado.
+[19:48:53] INFO: Modo Performance Leve encerrado.
+[19:48:53] INFO: Agente voltou ao modo de espera.
+[19:49:13] INFO: CPU 96% | RAM 80% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:49:13] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:49:49] INFO: Estado do Roblox: Executando
+[19:49:49] INFO: Roblox encontrado.
+[19:49:49] INFO: Iniciando apenas recursos leves.
+[19:49:49] INFO: Modo Performance Leve ativado.
+[19:49:49] INFO: Nenhuma alteração será feita no Roblox.
+[19:49:49] INFO: Prioridade alta desativada.
+[19:49:49] INFO: Alteração de plano de energia desativada.
+[19:49:49] INFO: Monitoramento contínuo iniciado.
+[19:50:40] INFO: CPU 87% | RAM 70% | Disco 0% | GPU 0%
+[19:51:08] INFO: CPU 88% | RAM 73% | Disco 1% | GPU 0%
+[19:51:35] INFO: CPU 99% | RAM 74% | Disco 0% | GPU 0%
+[19:51:35] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:52:04] INFO: CPU 92% | RAM 73% | Disco 0% | GPU 0%
+[19:52:04] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:52:38] INFO: CPU 73% | RAM 73% | Disco 0% | GPU 0%
+[19:52:53] INFO: Estado do Roblox: Fechado
+[19:52:53] INFO: Roblox fechado.
+[19:52:53] INFO: Monitoramento contínuo parado.
+[19:52:53] INFO: ProcessAgent parado.
+[19:52:53] INFO: NetworkAgent parado.
+[19:52:53] INFO: Modo Performance Leve encerrado.
+[19:52:53] INFO: Agente voltou ao modo de espera.
+[19:53:14] INFO: CPU 87% | RAM 74% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:54:52] INFO: Estado do Roblox: Executando
+[19:54:52] INFO: Roblox encontrado.
+[19:54:52] INFO: Iniciando apenas recursos leves.
+[19:54:52] INFO: Modo Performance Leve ativado.
+[19:54:52] INFO: Nenhuma alteração será feita no Roblox.
+[19:54:52] INFO: Prioridade alta desativada.
+[19:54:52] INFO: Alteração de plano de energia desativada.
+[19:54:52] INFO: Monitoramento contínuo iniciado.
+[19:55:45] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0%
+[19:55:45] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:56:14] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0% | Temperatura 0°C
+[19:56:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:56:23] INFO: Estado do Roblox: Fechado
+[19:56:23] INFO: Roblox fechado.
+[19:56:24] INFO: Monitoramento contínuo parado.
+[19:56:24] INFO: ProcessAgent parado.
+[19:56:24] INFO: NetworkAgent parado.
+[19:56:24] INFO: Modo Performance Leve encerrado.
+[19:56:24] INFO: Agente voltou ao modo de espera.
+[19:56:38] INFO: CPU 100% | RAM 85% | Disco 0% | GPU 0%
+[19:56:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[19:56:48] INFO: Estado do Roblox: Executando
+[19:56:48] INFO: Roblox encontrado.
+[19:56:48] INFO: Iniciando apenas recursos leves.
+[19:56:48] INFO: Modo Performance Leve ativado.
+[19:56:48] INFO: Nenhuma alteração será feita no Roblox.
+[19:56:48] INFO: Prioridade alta desativada.
+[19:56:48] INFO: Alteração de plano de energia desativada.
+[19:56:48] INFO: Monitoramento contínuo iniciado.
+[19:57:32] INFO: CPU 59% | RAM 82% | Disco 0% | GPU 0%
+[19:58:01] INFO: CPU 52% | RAM 81% | Disco 0% | GPU 0%
+[19:58:34] INFO: CPU 54% | RAM 81% | Disco 0% | GPU 0%
+[19:59:03] INFO: CPU 85% | RAM 83% | Disco 0% | GPU 0%
+[19:59:32] INFO: CPU 66% | RAM 82% | Disco 0% | GPU 0%
+[20:00:02] INFO: CPU 51% | RAM 81% | Disco 0% | GPU 0%
+[20:00:33] INFO: CPU 51% | RAM 81% | Disco 0% | GPU 0%
+[20:01:07] INFO: CPU 70% | RAM 85% | Disco 2% | GPU 0%
+[20:01:35] INFO: CPU 83% | RAM 87% | Disco 0% | GPU 0%
+[20:02:02] INFO: CPU 83% | RAM 89% | Disco 0% | GPU 0%
+[20:02:33] INFO: CPU 64% | RAM 84% | Disco 0% | GPU 0%
+[20:03:02] INFO: CPU 52% | RAM 84% | Disco 0% | GPU 0%
+[20:03:32] INFO: CPU 48% | RAM 84% | Disco 0% | GPU 0%
+[20:04:02] INFO: CPU 49% | RAM 84% | Disco 0% | GPU 0%
+[20:04:31] INFO: CPU 48% | RAM 83% | Disco 0% | GPU 0%
+[20:05:02] INFO: CPU 50% | RAM 83% | Disco 0% | GPU 0%
+[20:05:31] INFO: CPU 54% | RAM 83% | Disco 0% | GPU 0%
+[20:06:02] INFO: CPU 47% | RAM 83% | Disco 0% | GPU 0%
+[20:06:32] INFO: CPU 57% | RAM 82% | Disco 0% | GPU 0%
+[20:07:07] INFO: CPU 55% | RAM 83% | Disco 2% | GPU 0%
+[20:07:32] INFO: CPU 76% | RAM 84% | Disco 0% | GPU 0%
+[20:08:02] INFO: CPU 53% | RAM 84% | Disco 0% | GPU 0%
+[20:08:32] INFO: CPU 53% | RAM 84% | Disco 0% | GPU 0%
+[20:09:02] INFO: CPU 45% | RAM 83% | Disco 0% | GPU 0%
+[20:09:31] INFO: CPU 50% | RAM 83% | Disco 0% | GPU 0%
+[20:10:02] INFO: CPU 48% | RAM 83% | Disco 0% | GPU 0%
+[20:10:32] INFO: CPU 56% | RAM 83% | Disco 0% | GPU 0%
+[20:11:02] INFO: CPU 49% | RAM 83% | Disco 0% | GPU 0%
+[20:11:33] INFO: CPU 56% | RAM 82% | Disco 0% | GPU 0%
+[20:12:10] INFO: CPU 72% | RAM 88% | Disco 0% | GPU 0%
+[20:12:30] INFO: CPU 84% | RAM 95% | Disco 0% | GPU 0%
+[20:12:30] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[20:12:53] INFO: Estado do Roblox: Fechado
+[20:12:54] INFO: Roblox fechado.
+[20:12:54] INFO: Monitoramento contínuo parado.
+[20:12:55] INFO: ProcessAgent parado.
+[20:12:55] INFO: NetworkAgent parado.
+[20:12:55] INFO: Modo Performance Leve encerrado.
+[20:12:55] INFO: Agente voltou ao modo de espera.
+[20:13:09] INFO: CPU 81% | RAM 96% | Disco 0% | GPU 0%
+[20:13:09] AVISO: RAM quase cheia. Considere fechar navegadores, launchers ou editores.
+[20:13:18] INFO: Estado do Roblox: Executando
+[20:13:18] INFO: Roblox encontrado.
+[20:13:18] INFO: Iniciando apenas recursos leves.
+[20:13:18] INFO: Modo Performance Leve ativado.
+[20:13:18] INFO: Nenhuma alteração será feita no Roblox.
+[20:13:18] INFO: Prioridade alta desativada.
+[20:13:18] INFO: Alteração de plano de energia desativada.
+[20:13:18] INFO: Monitoramento contínuo iniciado.
+[20:14:06] INFO: CPU 78% | RAM 82% | Disco 6% | GPU 0%
+[20:14:32] INFO: CPU 87% | RAM 88% | Disco 0% | GPU 0%
+[20:15:01] INFO: CPU 85% | RAM 63% | Disco 0% | GPU 0%
+[20:15:31] INFO: CPU 77% | RAM 69% | Disco 0% | GPU 0%
+[20:16:07] INFO: CPU 66% | RAM 74% | Disco 0% | GPU 0%
+[20:16:32] INFO: CPU 91% | RAM 82% | Disco 0% | GPU 0%
+[20:16:32] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[20:17:03] INFO: CPU 82% | RAM 80% | Disco 0% | GPU 0%
+[20:17:34] INFO: CPU 78% | RAM 80% | Disco 0% | GPU 0%
+[20:18:02] INFO: CPU 84% | RAM 81% | Disco 0% | GPU 0%
+[20:18:32] INFO: CPU 71% | RAM 81% | Disco 0% | GPU 0%
+[20:19:01] INFO: CPU 71% | RAM 81% | Disco 2% | GPU 0%
+[20:19:32] INFO: CPU 69% | RAM 81% | Disco 0% | GPU 0%
+[20:20:01] INFO: CPU 71% | RAM 81% | Disco 0% | GPU 0%
+[20:20:30] INFO: CPU 64% | RAM 80% | Disco 1% | GPU 0%
+[20:21:03] INFO: CPU 57% | RAM 72% | Disco 1% | GPU 0%
+[20:21:33] INFO: CPU 94% | RAM 79% | Disco 7% | GPU 0%
+[20:21:33] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[20:22:02] INFO: CPU 86% | RAM 70% | Disco 3% | GPU 0%
+[20:22:31] INFO: CPU 67% | RAM 68% | Disco 0% | GPU 0%
+[20:23:01] INFO: CPU 55% | RAM 69% | Disco 0% | GPU 0%
+[20:23:31] INFO: CPU 51% | RAM 70% | Disco 0% | GPU 0%
+[20:24:03] INFO: CPU 64% | RAM 71% | Disco 0% | GPU 0%
+[20:24:31] INFO: CPU 76% | RAM 71% | Disco 0% | GPU 0%
+[20:25:01] INFO: CPU 55% | RAM 60% | Disco 0% | GPU 0%
+[20:25:32] INFO: CPU 52% | RAM 60% | Disco 0% | GPU 0%
+[20:26:03] INFO: CPU 67% | RAM 63% | Disco 0% | GPU 0%
+[20:26:32] INFO: CPU 68% | RAM 63% | Disco 0% | GPU 0%
+[20:27:03] INFO: CPU 73% | RAM 62% | Disco 0% | GPU 0%
+[20:27:34] INFO: CPU 88% | RAM 67% | Disco 0% | GPU 0%
+[20:28:01] INFO: CPU 92% | RAM 55% | Disco 0% | GPU 0%
+[20:28:01] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[20:28:34] INFO: CPU 53% | RAM 56% | Disco 0% | GPU 0%
+[20:29:02] INFO: CPU 52% | RAM 60% | Disco 0% | GPU 0%
+[20:29:31] INFO: CPU 53% | RAM 60% | Disco 0% | GPU 0%
+[20:30:01] INFO: CPU 51% | RAM 60% | Disco 0% | GPU 0%
+[20:30:31] INFO: CPU 50% | RAM 61% | Disco 0% | GPU 0%
+[20:31:02] INFO: CPU 54% | RAM 61% | Disco 0% | GPU 0%
+[20:31:31] INFO: CPU 56% | RAM 60% | Disco 0% | GPU 0%
+[20:32:01] INFO: CPU 56% | RAM 61% | Disco 0% | GPU 0%
+[20:32:31] INFO: CPU 58% | RAM 61% | Disco 0% | GPU 0%
+[20:33:01] INFO: CPU 57% | RAM 61% | Disco 0% | GPU 0%
+[20:33:31] INFO: CPU 53% | RAM 62% | Disco 0% | GPU 0%
+[20:34:01] INFO: CPU 56% | RAM 58% | Disco 0% | GPU 0%
+[20:34:31] INFO: CPU 58% | RAM 59% | Disco 0% | GPU 0%
+[20:35:02] INFO: CPU 48% | RAM 59% | Disco 0% | GPU 0%
+[20:35:31] INFO: CPU 55% | RAM 59% | Disco 0% | GPU 0%
+[20:36:01] INFO: CPU 51% | RAM 59% | Disco 0% | GPU 0%
+[20:36:32] INFO: CPU 56% | RAM 59% | Disco 0% | GPU 0%
+[20:37:01] INFO: CPU 64% | RAM 58% | Disco 0% | GPU 0%
+[20:37:31] INFO: CPU 54% | RAM 58% | Disco 0% | GPU 0%
+[20:38:01] INFO: CPU 52% | RAM 58% | Disco 0% | GPU 0%
+[20:38:31] INFO: CPU 51% | RAM 58% | Disco 0% | GPU 0%
+[20:39:01] INFO: CPU 52% | RAM 58% | Disco 0% | GPU 0%
+[20:39:31] INFO: CPU 53% | RAM 59% | Disco 0% | GPU 0%
+[20:40:03] INFO: CPU 57% | RAM 60% | Disco 0% | GPU 0%
+[20:40:31] INFO: CPU 65% | RAM 61% | Disco 0% | GPU 0%
+[20:41:01] INFO: CPU 52% | RAM 61% | Disco 0% | GPU 0%
+[20:41:31] INFO: CPU 51% | RAM 62% | Disco 0% | GPU 0%
+[20:42:01] INFO: CPU 53% | RAM 61% | Disco 0% | GPU 0%
+[20:42:31] INFO: CPU 51% | RAM 61% | Disco 0% | GPU 0%
+[20:43:01] INFO: CPU 50% | RAM 61% | Disco 0% | GPU 0%
+[20:43:31] INFO: CPU 49% | RAM 61% | Disco 0% | GPU 0%
+[20:44:01] INFO: CPU 55% | RAM 61% | Disco 0% | GPU 0%
+[20:44:31] INFO: CPU 50% | RAM 61% | Disco 0% | GPU 0%
+[20:45:05] INFO: CPU 58% | RAM 61% | Disco 0% | GPU 0%
+[20:45:32] INFO: CPU 63% | RAM 61% | Disco 0% | GPU 0%
+[20:46:04] INFO: CPU 65% | RAM 61% | Disco 0% | GPU 0%
+[20:46:32] INFO: CPU 65% | RAM 61% | Disco 4% | GPU 0%
+[20:47:01] INFO: CPU 61% | RAM 60% | Disco 0% | GPU 0%
+[20:47:32] INFO: CPU 49% | RAM 60% | Disco 0% | GPU 0%
+[20:48:01] INFO: CPU 57% | RAM 60% | Disco 0% | GPU 0%
+[20:48:31] INFO: CPU 51% | RAM 61% | Disco 0% | GPU 0%
+[20:49:01] INFO: CPU 55% | RAM 61% | Disco 0% | GPU 0%
+[20:49:31] INFO: CPU 50% | RAM 61% | Disco 0% | GPU 0%
+[20:50:01] INFO: CPU 52% | RAM 60% | Disco 0% | GPU 0%
+[20:50:31] INFO: CPU 53% | RAM 61% | Disco 0% | GPU 0%
+[20:51:01] INFO: CPU 50% | RAM 61% | Disco 0% | GPU 0%
+[20:51:31] INFO: CPU 52% | RAM 61% | Disco 0% | GPU 0%
+[20:52:01] INFO: CPU 59% | RAM 60% | Disco 0% | GPU 0%
+[20:52:31] INFO: CPU 59% | RAM 60% | Disco 0% | GPU 0%
+[20:53:01] INFO: CPU 53% | RAM 60% | Disco 0% | GPU 0%
+[20:53:31] INFO: CPU 53% | RAM 60% | Disco 0% | GPU 0%
+[20:54:01] INFO: CPU 50% | RAM 60% | Disco 0% | GPU 0%
+[20:54:31] INFO: CPU 48% | RAM 60% | Disco 0% | GPU 0%
+[20:55:01] INFO: CPU 50% | RAM 60% | Disco 0% | GPU 0%
+[20:55:31] INFO: CPU 49% | RAM 60% | Disco 0% | GPU 0%
+[20:56:01] INFO: CPU 55% | RAM 58% | Disco 0% | GPU 0%
+[20:56:31] INFO: CPU 49% | RAM 59% | Disco 0% | GPU 0%
+[20:57:01] INFO: CPU 53% | RAM 58% | Disco 0% | GPU 0%
+[20:57:31] INFO: CPU 49% | RAM 58% | Disco 0% | GPU 0%
+[20:58:01] INFO: CPU 48% | RAM 59% | Disco 0% | GPU 0%
+[20:58:31] INFO: CPU 57% | RAM 59% | Disco 0% | GPU 0%
+[20:59:01] INFO: CPU 52% | RAM 59% | Disco 0% | GPU 0%
+[20:59:32] INFO: CPU 52% | RAM 59% | Disco 0% | GPU 0%
+[21:00:01] INFO: CPU 58% | RAM 59% | Disco 0% | GPU 0%
+[21:00:31] INFO: CPU 49% | RAM 59% | Disco 0% | GPU 0%
+[21:01:01] INFO: CPU 51% | RAM 59% | Disco 0% | GPU 0%
+[21:01:34] INFO: CPU 50% | RAM 59% | Disco 0% | GPU 0%
+[21:02:01] INFO: CPU 55% | RAM 59% | Disco 0% | GPU 0%
+[21:02:31] INFO: CPU 53% | RAM 59% | Disco 0% | GPU 0%
+[21:03:01] INFO: CPU 52% | RAM 59% | Disco 0% | GPU 0%
+[21:03:32] INFO: CPU 57% | RAM 59% | Disco 0% | GPU 0%
+[21:04:02] INFO: CPU 64% | RAM 59% | Disco 0% | GPU 0%
+[21:04:32] INFO: CPU 66% | RAM 60% | Disco 0% | GPU 0%
+[21:05:02] INFO: CPU 59% | RAM 60% | Disco 0% | GPU 0%
+[21:05:32] INFO: CPU 59% | RAM 59% | Disco 0% | GPU 0%
+[21:06:02] INFO: CPU 58% | RAM 59% | Disco 0% | GPU 0%
+[21:06:31] INFO: CPU 55% | RAM 59% | Disco 0% | GPU 0%
+[21:07:02] INFO: CPU 47% | RAM 61% | Disco 0% | GPU 0%
+[21:07:31] INFO: CPU 56% | RAM 61% | Disco 0% | GPU 0%
+[21:08:01] INFO: CPU 48% | RAM 61% | Disco 0% | GPU 0%
+[21:08:31] INFO: CPU 44% | RAM 61% | Disco 0% | GPU 0%
+[21:09:01] INFO: CPU 48% | RAM 61% | Disco 0% | GPU 0%
+[21:09:31] INFO: CPU 43% | RAM 61% | Disco 0% | GPU 0%
+[21:10:01] INFO: CPU 45% | RAM 61% | Disco 0% | GPU 0%
+[21:10:31] INFO: CPU 51% | RAM 61% | Disco 0% | GPU 0%
+[21:11:01] INFO: CPU 46% | RAM 59% | Disco 0% | GPU 0%
+[21:11:31] INFO: CPU 49% | RAM 59% | Disco 0% | GPU 0%
+[21:12:01] INFO: CPU 49% | RAM 61% | Disco 0% | GPU 0%
+[21:12:32] INFO: CPU 48% | RAM 61% | Disco 0% | GPU 0%
+[21:13:03] INFO: CPU 55% | RAM 61% | Disco 0% | GPU 0%
+[21:13:32] INFO: CPU 58% | RAM 62% | Disco 0% | GPU 0%
+[21:14:05] INFO: CPU 53% | RAM 62% | Disco 0% | GPU 0%
+[21:14:35] INFO: CPU 66% | RAM 64% | Disco 3% | GPU 0%
+[21:15:08] INFO: CPU 60% | RAM 64% | Disco 0% | GPU 0%
+[21:15:35] INFO: CPU 83% | RAM 65% | Disco 0% | GPU 0%
+[21:16:04] INFO: CPU 60% | RAM 64% | Disco 0% | GPU 0%
+[21:16:34] INFO: CPU 63% | RAM 64% | Disco 0% | GPU 0%
+[21:17:04] INFO: CPU 56% | RAM 64% | Disco 0% | GPU 0%
+[21:17:35] INFO: CPU 55% | RAM 64% | Disco 0% | GPU 0%
+[21:18:07] INFO: CPU 56% | RAM 65% | Disco 0% | GPU 0%
+[21:18:32] INFO: CPU 51% | RAM 65% | Disco 0% | GPU 0%
+[21:18:55] INFO: Estado do Roblox: Fechado
+[21:18:55] INFO: Roblox fechado.
+[21:18:55] INFO: Monitoramento contínuo parado.
+[21:18:55] INFO: ProcessAgent parado.
+[21:18:55] INFO: NetworkAgent parado.
+[21:18:55] INFO: Modo Performance Leve encerrado.
+[21:18:56] INFO: Agente voltou ao modo de espera.
+[21:19:15] INFO: CPU 73% | RAM 55% | Disco 0% | GPU 0%
+[21:19:24] INFO: Estado do Roblox: Executando
+[21:19:24] INFO: Roblox encontrado.
+[21:19:24] INFO: Iniciando apenas recursos leves.
+[21:19:24] INFO: Modo Performance Leve ativado.
+[21:19:24] INFO: Nenhuma alteração será feita no Roblox.
+[21:19:24] INFO: Prioridade alta desativada.
+[21:19:24] INFO: Alteração de plano de energia desativada.
+[21:19:24] INFO: Monitoramento contínuo iniciado.
+[21:20:09] INFO: CPU 100% | RAM 70% | Disco 0% | GPU 0%
+[21:20:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:20:41] INFO: CPU 100% | RAM 74% | Disco 0% | GPU 0%
+[21:20:41] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:21:14] INFO: CPU 100% | RAM 79% | Disco 2% | GPU 0%
+[21:21:14] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:21:42] INFO: CPU 100% | RAM 80% | Disco 16% | GPU 0%
+[21:21:42] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:22:09] INFO: CPU 100% | RAM 81% | Disco 100% | GPU 0%
+[21:22:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:22:09] AVISO: Disco em alto uso. Atualizações, antivírus ou gravações podem causar engasgos.
+[21:22:39] INFO: CPU 100% | RAM 80% | Disco 6% | GPU 0%
+[21:22:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:23:11] INFO: CPU 100% | RAM 82% | Disco 0% | GPU 0%
+[21:23:11] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:23:40] INFO: CPU 100% | RAM 84% | Disco 1% | GPU 0%
+[21:23:40] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:24:09] INFO: CPU 100% | RAM 86% | Disco 1% | GPU 0%
+[21:24:09] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:24:39] INFO: CPU 100% | RAM 86% | Disco 2% | GPU 0%
+[21:24:39] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:25:08] INFO: CPU 87% | RAM 85% | Disco 3% | GPU 0%
+[21:25:37] INFO: CPU 91% | RAM 87% | Disco 0% | GPU 0%
+[21:25:37] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:26:10] INFO: CPU 76% | RAM 86% | Disco 0% | GPU 0%
+[21:26:38] INFO: CPU 84% | RAM 85% | Disco 0% | GPU 0%
+[21:27:07] INFO: CPU 75% | RAM 85% | Disco 7% | GPU 0%
+[21:27:37] INFO: CPU 67% | RAM 82% | Disco 0% | GPU 0%
+[21:28:06] INFO: CPU 54% | RAM 84% | Disco 0% | GPU 0%
+[21:28:36] INFO: CPU 49% | RAM 83% | Disco 0% | GPU 0%
+[21:29:06] INFO: CPU 58% | RAM 84% | Disco 0% | GPU 0%
+[21:29:36] INFO: CPU 53% | RAM 85% | Disco 0% | GPU 0%
+[21:30:06] INFO: CPU 38% | RAM 83% | Disco 0% | GPU 0%
+[21:30:36] INFO: CPU 40% | RAM 82% | Disco 0% | GPU 0%
+[21:31:06] INFO: CPU 53% | RAM 83% | Disco 0% | GPU 0%
+[21:31:37] INFO: CPU 40% | RAM 83% | Disco 0% | GPU 0%
+[21:32:07] INFO: CPU 62% | RAM 83% | Disco 0% | GPU 0%
+[21:32:37] INFO: CPU 66% | RAM 85% | Disco 0% | GPU 0%
+[21:33:07] INFO: CPU 56% | RAM 86% | Disco 0% | GPU 0%
+[21:33:37] INFO: CPU 53% | RAM 83% | Disco 0% | GPU 0%
+[21:34:10] INFO: CPU 53% | RAM 83% | Disco 0% | GPU 0%
+[21:34:36] INFO: CPU 69% | RAM 86% | Disco 0% | GPU 0%
+[21:35:06] INFO: CPU 64% | RAM 87% | Disco 0% | GPU 0%
+[21:35:36] INFO: CPU 43% | RAM 82% | Disco 0% | GPU 0%
+[21:36:07] INFO: CPU 59% | RAM 84% | Disco 0% | GPU 0%
+[21:36:37] INFO: CPU 70% | RAM 84% | Disco 0% | GPU 0%
+[21:37:07] INFO: CPU 64% | RAM 80% | Disco 0% | GPU 0%
+[21:37:37] INFO: CPU 65% | RAM 80% | Disco 0% | GPU 0%
+[21:38:07] INFO: CPU 60% | RAM 80% | Disco 0% | GPU 0%
+[21:38:37] INFO: CPU 60% | RAM 81% | Disco 0% | GPU 0%
+[21:39:07] INFO: CPU 65% | RAM 80% | Disco 0% | GPU 0%
+[21:39:37] INFO: CPU 54% | RAM 81% | Disco 0% | GPU 0%
+[21:40:07] INFO: CPU 62% | RAM 80% | Disco 0% | GPU 0%
+[21:40:38] INFO: CPU 73% | RAM 81% | Disco 0% | GPU 0%
+[21:41:07] INFO: CPU 69% | RAM 82% | Disco 0% | GPU 0%
+[21:41:38] INFO: CPU 76% | RAM 79% | Disco 0% | GPU 0%
+[21:42:08] INFO: CPU 74% | RAM 78% | Disco 0% | GPU 0%
+[21:42:37] INFO: CPU 74% | RAM 78% | Disco 0% | GPU 0%
+[21:43:07] INFO: CPU 75% | RAM 78% | Disco 0% | GPU 0%
+[21:43:37] INFO: CPU 72% | RAM 78% | Disco 0% | GPU 0%
+[21:44:08] INFO: CPU 69% | RAM 78% | Disco 0% | GPU 0%
+[21:44:37] INFO: CPU 71% | RAM 78% | Disco 0% | GPU 0%
+[21:45:08] INFO: CPU 71% | RAM 78% | Disco 0% | GPU 0%
+[21:45:38] INFO: CPU 72% | RAM 78% | Disco 0% | GPU 0%
+[21:46:08] INFO: CPU 73% | RAM 78% | Disco 0% | GPU 0%
+[21:46:37] INFO: CPU 77% | RAM 78% | Disco 0% | GPU 0%
+[21:47:08] INFO: CPU 73% | RAM 78% | Disco 0% | GPU 0%
+[21:47:37] INFO: CPU 76% | RAM 78% | Disco 0% | GPU 0%
+[21:48:08] INFO: CPU 71% | RAM 78% | Disco 0% | GPU 0%
+[21:48:39] INFO: CPU 77% | RAM 79% | Disco 0% | GPU 0%
+[21:49:07] INFO: CPU 75% | RAM 79% | Disco 0% | GPU 0%
+[21:49:37] INFO: CPU 74% | RAM 79% | Disco 0% | GPU 0%
+[21:50:09] INFO: CPU 75% | RAM 79% | Disco 0% | GPU 0%
+[21:50:41] INFO: CPU 76% | RAM 79% | Disco 0% | GPU 0%
+[21:51:10] INFO: CPU 79% | RAM 80% | Disco 0% | GPU 0%
+[21:51:38] INFO: CPU 94% | RAM 80% | Disco 0% | GPU 0%
+[21:51:38] AVISO: CPU muito alta. Feche aplicativos pesados se notar travamentos.
+[21:52:08] INFO: CPU 80% | RAM 80% | Disco 0% | GPU 0%
+[21:52:38] INFO: CPU 83% | RAM 80% | Disco 0% | GPU 0%
+[21:53:08] INFO: CPU 75% | RAM 80% | Disco 0% | GPU 0%
+[21:53:38] INFO: CPU 75% | RAM 80% | Disco 0% | GPU 0%
+[21:54:08] INFO: CPU 77% | RAM 80% | Disco 0% | GPU 0%
+[21:54:38] INFO: CPU 77% | RAM 79% | Disco 21% | GPU 0%
+[21:55:07] INFO: CPU 74% | RAM 79% | Disco 0% | GPU 0%
+[21:55:36] INFO: CPU 64% | RAM 80% | Disco 0% | GPU 0%
+[21:56:06] INFO: CPU 40% | RAM 78% | Disco 0% | GPU 0%
+[21:56:37] INFO: CPU 41% | RAM 78% | Disco 0% | GPU 0%
+[21:57:07] INFO: CPU 62% | RAM 80% | Disco 5% | GPU 0%
+[21:57:40] INFO: CPU 77% | RAM 81% | Disco 0% | GPU 0%
+[21:58:09] INFO: CPU 86% | RAM 81% | Disco 0% | GPU 0%
+[21:58:41] INFO: CPU 85% | RAM 81% | Disco 0% | GPU 0%
+[21:59:09] INFO: CPU 82% | RAM 81% | Disco 0% | GPU 0%
+[21:59:39] INFO: CPU 85% | RAM 81% | Disco 0% | GPU 0%
+[22:00:06] INFO: CPU 74% | RAM 81% | Disco 0% | GPU 0%
+[22:00:38] INFO: CPU 56% | RAM 82% | Disco 0% | GPU 0%
+[22:01:08] INFO: CPU 78% | RAM 82% | Disco 0% | GPU 0%
+[22:01:37] INFO: CPU 75% | RAM 81% | Disco 0% | GPU 0%
+[22:02:08] INFO: CPU 73% | RAM 81% | Disco 0% | GPU 0%
+[22:02:37] INFO: CPU 79% | RAM 79% | Disco 1% | GPU 0%
+[22:03:08] INFO: CPU 68% | RAM 79% | Disco 0% | GPU 0%
+[22:03:38] INFO: CPU 75% | RAM 79% | Disco 0% | GPU 0%
+[22:04:07] INFO: CPU 79% | RAM 79% | Disco 0% | GPU 0%
+[22:04:39] INFO: CPU 71% | RAM 79% | Disco 0% | GPU 0%
+[22:05:09] INFO: CPU 72% | RAM 80% | Disco 0% | GPU 0%
+[22:05:38] INFO: CPU 74% | RAM 79% | Disco 0% | GPU 0%
+[22:06:07] INFO: CPU 74% | RAM 79% | Disco 0% | GPU 0%
+[22:06:37] INFO: CPU 70% | RAM 79% | Disco 0% | GPU 0%
+[22:07:09] INFO: CPU 64% | RAM 79% | Disco 0% | GPU 0%
+[22:07:38] INFO: CPU 73% | RAM 77% | Disco 0% | GPU 0%
+[22:08:07] INFO: CPU 70% | RAM 77% | Disco 0% | GPU 0%
+[22:08:38] INFO: CPU 77% | RAM 76% | Disco 0% | GPU 0%
+[22:09:08] INFO: CPU 71% | RAM 76% | Disco 0% | GPU 0%
+[22:09:37] INFO: CPU 67% | RAM 76% | Disco 0% | GPU 0%
+[22:10:07] INFO: CPU 66% | RAM 76% | Disco 0% | GPU 0%
+[22:10:37] INFO: CPU 76% | RAM 75% | Disco 0% | GPU 0%
+[22:11:06] INFO: CPU 65% | RAM 76% | Disco 0% | GPU 0%

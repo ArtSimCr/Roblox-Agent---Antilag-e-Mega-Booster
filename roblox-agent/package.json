@@ -1,0 +1,20 @@
+{
+  "name": "roblox-performance-agent",
+  "version": "1.0.0",
+  "description": "Agente local em Node.js para monitorar o Windows enquanto Roblox estiver em execução e aplicar otimizações seguras do sistema.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node index.js --check"
+  },
+  "keywords": [
+    "roblox",
+    "performance",
+    "windows",
+    "monitor",
+    "nodejs"
+  ],
+  "author": "Projeto local",
+  "license": "MIT"
+}
