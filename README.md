@@ -1,2 +1,3 @@
 # Roblox-Agent---Antilag-e-Mega-Booster
 Agente antilag e Booster dentro do roblox! Capaz de melhorar seu pc em jogos pesados e melhorar seu desempenho nestes jogos! LEMBRANDO!!! O roblox agent não é capaz de interferir em arquivos do roblox!!! Com este agente voce pode tudo! (Ou apenas em pc e usando o node.js :D ) para conseguir executar o arquivo, baixe o node.js no seu PC, e instale o meu arquivo .zip, extraia o arquivo .zip clique no botão direito, e vai em Abrir no Terminal. Depois de tudo isto! digite: npm start ) sem os parenteses, depois execute o roblox e pronto você vai jogar os jogos normalmente sem lag e mais rápido! e sim isto foi testado!
+# Versao 1.1 EM BREVE!!! Anti.afk e Save de Servidor!!!
